@@ -55,4 +55,3 @@ after it:
 ## License
 
 Released under the [MIT License](./LICENSE).
-# prompt-builder
